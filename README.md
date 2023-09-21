@@ -38,8 +38,8 @@ The Statement of Purpose (SOP) Generator is a tool designed to assist students i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sop-generator.git
-   cd sop-generator
+   git clone https://github.com/your-username/MySOP-Builder.git
+   cd MySOP-Builder
    ```
 2. install the required Python packages:
     ```
