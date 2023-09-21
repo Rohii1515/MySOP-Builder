@@ -1,0 +1,17 @@
+# Web Framework
+streamlit==0.90.0
+
+# Database
+pymongo==3.12.0
+
+# Web Forms
+WTForms==2.3.3
+
+# Date and Time Manipulation
+python-dateutil==2.8.2
+
+# Random OTP Generation
+random2==1.0.1
+
+# HTML Sanitization (for unsafe_allow_html)
+bleach==4.1.1
